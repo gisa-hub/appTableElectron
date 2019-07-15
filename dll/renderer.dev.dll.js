@@ -267,6 +267,18 @@ eval("module.exports = material-table;\n\n//# sourceURL=webpack://renderer/exter
 
 /***/ }),
 
+/***/ "moment":
+/*!*************************!*\
+  !*** external "moment" ***!
+  \*************************/
+/*! no static exports found */
+/*! all exports used */
+/***/ (function(module, exports) {
+
+eval("module.exports = moment;\n\n//# sourceURL=webpack://renderer/external_%22moment%22?");
+
+/***/ }),
+
 /***/ "react":
 /*!************************!*\
   !*** external "react" ***!
